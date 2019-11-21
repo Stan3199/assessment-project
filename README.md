@@ -17,3 +17,5 @@ Jquerry
 Bootstrap
 End Point Links:
 'http://api.openweathermap.org/data/2.5/forecast/daily?q=' + city + "&units=metric" + "&cnt=" + days + "&APPID=c10bb3bd22f90d636baa008b1529ee25"
+'http://api.openweathermap.org/data/2.5/weather?q=' + city + "&units=metric" + "&APPID=c10bb3bd22f90d636baa008b1529ee25"
+'https://api.forecast.io/forecast/'
